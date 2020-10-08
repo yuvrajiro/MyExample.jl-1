@@ -8,6 +8,4 @@ using Test
 
 end
 
-@testset "deriv tests" begin
-    @test derivative_of_my_f(2,1) == 2
-end
+
